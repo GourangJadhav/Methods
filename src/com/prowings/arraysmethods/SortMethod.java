@@ -6,9 +6,9 @@ public class SortMethod {
 	
 	public static void main(String[] args) {
 			
-		byte[] b = {20, 30, 10, 50};
-		Arrays.sort(b);
-		for(int i : b) {
+		byte[] a = {20, 30, 10, 50};
+		Arrays.sort(a);
+		for(int i : a) {
 			System.out.println(i);
 		}
 	}
