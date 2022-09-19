@@ -8,6 +8,7 @@ public class SortMethod {
 			
 		byte[] a = {20, 30, 10, 50};
 		Arrays.sort(a);
+		
 		for(int i : a) {
 			System.out.println(i);
 		}
